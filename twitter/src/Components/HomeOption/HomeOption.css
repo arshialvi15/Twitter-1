@@ -1,0 +1,46 @@
+
+
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.optionContainer{
+padding: 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+position: sticky;
+top: 0;
+
+}
+
+.optionContainer a{
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+   
+     
+}
+
+.optionContainer a:nth-child(1){
+    font-weight: bold;
+}
+
+#exploreOption {
+    font-weight: bold;
+}
+
+.tweet-btn{
+    width: 100px;
+    margin-top: 25px;
+    padding: 6px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid cornflowerblue;
+    border-radius: 25px;
+}

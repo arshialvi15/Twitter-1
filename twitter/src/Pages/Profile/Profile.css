@@ -1,0 +1,22 @@
+.homeContainer{
+    display: flex;
+    height: 100%;
+    
+    }
+    
+    .leftContainer{
+        width: 22%;
+    }
+    
+    .centreContainer{
+        width: 48%;
+        border-left: 1px solid lightcyan;
+        border-right: 1px solid lightcyan;
+    }
+    
+    .rightContainer{
+        width: 30%;
+        border-left: 1px solid lightcyan;
+        border-right: 1px solid lightblue;
+    }
+    

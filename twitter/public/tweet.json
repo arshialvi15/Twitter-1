@@ -1,0 +1,59 @@
+[{
+    "authorName": "Bill Gates",
+    "authorImg":"https://bitcoinist.com/wp-content/uploads/2018/05/wiki-Bill_Gates_MSC_2017-e1578917111765.jpg",
+    "text":"I had a great meeting with @starkwatzinger",
+    "handle":"@billgates",
+    "likes": "220.5k",
+    "retweets":"150k",
+    "comments":"48",
+    "Share":"125"
+    
+},
+
+{
+    "authorName": "Arshi Alvi",
+    "authorImg":"https://www.tricity.in/wp-content/uploads/2019/12/Dipika-Kakar-Img-10.jpg",
+    "text":"If I had a dollar for every time someone asked me if Trump’s account is going to be deactivated on my platform, Meta would be minting money!",
+    "handle":"@arshisalma_alvi",
+    "likes": "56.5k",
+    "retweets":"100k",
+    "comments":"514",
+    "Share":"105"
+    
+},
+
+{
+    "authorName": "Elon Musk",
+    "authorImg":"https://th.bing.com/th/id/OIP.pvIrpIuGDqd42wAtJwG0GAHaHa?pid=ImgDet&rs=1",
+    "text":"FTX meltdown ransack being tracked in real-time twitter SBF is ineffective altruism,but they thought he was saying he was in effective altruism. Easy misunderstanding.",
+    "handle":"@elonmusk",
+    "likes": "78.5k",
+    "retweets":"150k",
+    "comments":"5.7k",
+    "Share":"115"
+    
+},
+
+{
+    "authorName": "Mark Zuckerberg",
+    "authorImg":"https://i0.wp.com/nypost.com/wp-content/uploads/sites/2/2017/01/gettyimages-496361748.jpg?quality=90&strip=all&ssl=1",
+    "text":"#IWillSmileTodayBecause of her😍😍" ,
+    "handle":"@zuckerbergmark",
+    "likes": "62.5k",
+    "retweets":"120k",
+    "comments":"7k",
+    "share":"162"
+    
+},
+
+{
+    "authorName": "Bill Gates",
+    "authorImg":"https://bitcoinist.com/wp-content/uploads/2018/05/wiki-Bill_Gates_MSC_2017-e1578917111765.jpg",
+    "text":"While the last steps are proving to be the toughest",
+    "handle":"@billgates",
+    "likes": "56.5k",
+    "retweets":"170k",
+    "comments":"8.8k",
+    "share":"102"
+    
+}]

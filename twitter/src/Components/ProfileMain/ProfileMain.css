@@ -1,0 +1,15 @@
+.cover{
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://pbs.twimg.com/profile_banners/44196397/1576183471/1500x500");
+}
+    
+.profile-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid white;
+    position: absolute;
+   bottom: 60%;
+}
