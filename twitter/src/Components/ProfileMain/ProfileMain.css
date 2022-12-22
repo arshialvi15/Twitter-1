@@ -11,5 +11,7 @@
     border-radius: 50%;
     border: 2px solid white;
     position: absolute;
-   bottom: 60%;
+    bottom: 60%;
+    margin-bottom: 35px;
+
 }

@@ -6,6 +6,7 @@ import "bootstrap/dist/js/bootstrap"
 import Profile from './Pages/Profile/Profile';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './Pages/Home/Home';
+import Signup from './Components/LoginOption/SignupOption/SignupOption';
 
 
 
@@ -18,6 +19,7 @@ root.render(
     <Routes>
       <Route path='/'  element={<Home />}></Route>
       <Route path='/Profile'  element={<Profile />}></Route>
+      <Route path='/Signup'  element={<Signup />}></Route>
     </Routes>
     </BrowserRouter>
   
