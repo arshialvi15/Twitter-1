@@ -6,6 +6,7 @@ import NewTweet from '../NewTweet/NewTweet';
 function HomeOption(){
     return(
         <div className="optionContainer">
+            <h1>test</h1>
             <Link to='/'>
             <img src="https://th.bing.com/th/id/OIP.j9ydz5CS8BYoc8tjZ0FMjwHaGA?w=249&h=202&c=7&r=0&o=5&pid=1.7"></img>
             </Link>
